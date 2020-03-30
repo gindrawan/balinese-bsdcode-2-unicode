@@ -1,0 +1,151 @@
+// bali simbar dwijendra code to balinese unicode
+// see http://www.babadbali.com/aksarabali/alphabet.htm
+// see also https://dictionary.basabali.org/Dictionary
+
+// basic syllables (akśara wreşāstra)
+h ᬳ // ha
+n ᬦ	// na
+c ᬘ	// ca
+r ᬭ	// ra
+k ᬓ	// ka
+d	ᬤ	// da
+t	ᬢ	// ta
+s	ᬲ	// sa
+w	ᬯ	// wa
+l	ᬮ	// la
+m	ᬫ	// ma
+g	ᬕ	// ga
+b	ᬩ	// ba
+\	ᬗ	// nga
+p	ᬧ	// pa
+j	ᬚ	// ja
+y	ᬬ	// ya
+z	ᬜ	// nya
+
+// basic syllables (akśara swalalita)
+x	ᬡ	// ņa // na rambat
+a	ᬥ	// dha  // da madu
+q	ᬣ	// tha  // ta tawa
+`	ᬝ	// ţa // ta latik
+]	ᬰ	// şa // sa saga
+[	ᬱ	// śa // sa sapa
+f	ᬖ	// gha  // ga gora
+v	ᬪ	// bha  // ba kembang
+|	ᬨ	// pha	// pa kapal // same glyph shape with “8”
+
+// Ligatures
+H	ᬳᬵ	// hā
+N	ᬦᬵ	// nā
+C	ᬘᬵ	// cā
+R	ᬭᬵ	// rā
+K	ᬓᬵ	// kā
+D	ᬪᬵ	// dā
+T	ᬢᬵ	// tā
+S	ᬲᬵ	// sā
+W	ᬯᬵ	// wā
+L	ᬮᬵ	// lā
+M	ᬫᬵ	// mā
+G	ᬕᬵ	// gā
+Z	ᬩᬵ	// bā
+P	ᬧᬵ	// pā
+ç	᭄ᬧᬵ	// pā // gempelan
+Y	ᬬᬵ	// yā
+X	ᬡᬵ	// ņā // na rambat
+A	ᬥᬵ	// dhā  // da madu
+Q	ᬝᬵ	// thā  // ta tawa
+~	ᬣᬵ	// ţā // ta latik
+}	ᬰᬵ	// şā // sa saga
+{	ᬱᬵ	// śā // sa sapa
+Ø	᭄ᬱᬵ	// sā // gempelan
+F	ᬖᬵ	// ghā  // ga gora
+V	ᬪᬵ	// bhā  // ba kembang
+
+// gantungan/vertical & gempelan/horizontal (akśara wreşāstra)
+À	᭄ᬳ	// ha
+Â	᭄ᬦ	// na
+Ç	᭄ᬘ	// ca
+É	᭄ᬭ	// ra
+Ð	᭄ᬓ	// ka
+Ñ	᭄ᬤ	// da
+Ó	᭄ᬢ	// ta
+Š	᭄ᬲ	// sa
+Ù	᭄ᬯ	// wa
+Þ	᭄ᬮ	// la
+ß	᭄ᬫ	// ma
+á	᭄ᬕ	// ga
+ã	᭄ᬩ	// ba
+á	᭄ᬗ	// nga
+æ	᭄ᬧ	// pa	// gempelan
+é	᭄ᬚ	// ja
+ê	᭄ᬬ	// ya
+ñ	᭄ᬜ	// nya
+
+// gantungan/vertical & gempelan/horizontal (akśara swalalita)
+Å	᭄ᬡ	// ņa // na rambat
+Ò	᭄ᬥ	// dha  // da madu
+Ô	᭄ᬣ	// tha  // ta tawa
+Õ	᭄ᬝ	// ţa // ta latik
+Ö	᭄ᬰ	// şa // sa saga
+×	᭄ᬱ	// śa // sa sapa	// gempelan
+â	᭄ᬖ	// gha // ga gora
+ä	᭄ᬪ	// bha  // ba kembang
+è	᭄ᬨ	// pha	// pa kapal // gempelan
+
+// numerals
+0	᭐	// 0
+1	᭑	// 1
+2	᭒	// 2	// same glyph shape with “lě” (ò)
+3	᭓	// 3	// same glyph shape with “O” (O)
+4	᭔	// 4
+5	᭕	// 5
+6	᭖	// 6	// same glyph shape with “e”
+7	᭗	// 7
+8	᭘	// 8	// same glyph shape with “pha” (|)
+9	᭙	// 9
+
+// vowels (akśara suara)
+i ᬶ // i	// ulu
+)	ᭂ // )	// pepet
+u	ᬸ // u	// suku
+e	ᬾ // e	// taleng
+E	ᬿ // E	// taleng repa
+ᬵ o // o	// tedong
+º  ᬁ//  º	// ulu candra
+™  ᬀ//  ™	// ulu ricem
+
+// vowels (akśara swalalita)
+Á	ᬅ // a
+Áo  ᬆ // ā
+õ	ᬆ	// ā
+÷	ᬇ // i
+÷o	ᬈ // ī
+ú	ᬉ // u
+úo	ᬊ // ū
+e	ᬏ // e	// same glyph shape with “6”
+ü	ᬐ // ai
+O	ᬑ // O	// same glyph shape with “3”
+Oo  ᬒ // au
+
+// ra repa & la lenga
+Ï	ᬋ // rě // ra repa
+Ïo	ᬌ // rö // ra repa tedong
+»	᭄ᬋ  // »  // gempelan
+ò	ᬍ // lě // la lenga // same glyph shape with “2”
+òo	ᬎ // lö // la lenga tedong
+
+// sound killers (pangangge tengenan)
+/	᭄	// adeg-adeg	// also represented by “«”
+*	ᬂ	// cecek
+(	ᬃ	// surang
+;	ᬄ	// bisah
+
+// miscellaneous
+œ	ᬙ // cha	// cha laca
+¼	ᬔ // kha
+
+// Punctuations & symbols
+,	᭞	// ,	// carik
+.	᭟	// .	// carik pareren
+<	᭚	// <	// panten
+>	᭛	// >	// pamada
+:	᭝	// :  // carik pamungkah
