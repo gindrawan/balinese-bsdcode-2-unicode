@@ -61,6 +61,7 @@ F	ᬖᬵ	// ghā  // ga gora
 V	ᬪᬵ	// bhā  // ba kembang
 
 // gantungan/vertical & gempelan/horizontal (akśara wreşāstra)
+// can't appears alone
 À	᭄ᬳ	// ha
 Â	᭄ᬦ	// na
 Ç	᭄ᬘ	// ca
@@ -81,6 +82,7 @@ V	ᬪᬵ	// bhā  // ba kembang
 ñ	᭄ᬜ	// nya
 
 // gantungan/vertical & gempelan/horizontal (akśara swalalita)
+// can't appears alone
 Å	᭄ᬡ	// ņa // na rambat
 Ò	᭄ᬥ	// dha  // da madu
 Ô	᭄ᬣ	// tha  // ta tawa
@@ -91,25 +93,12 @@ V	ᬪᬵ	// bhā  // ba kembang
 ä	᭄ᬪ	// bha  // ba kembang
 è	᭄ᬨ	// pha	// pa kapal // gempelan
 
-// numerals
-0	᭐	// 0
-1	᭑	// 1
-2	᭒	// 2	// same glyph shape with “lě” (ò)
-3	᭓	// 3	// same glyph shape with “O” (O)
-4	᭔	// 4
-5	᭕	// 5
-6	᭖	// 6	// same glyph shape with “e”
-7	᭗	// 7
-8	᭘	// 8	// same glyph shape with “pha” (|)
-9	᭙	// 9
-
-// vowels (akśara suara)
-i ᬶ // i	// ulu
-)	ᭂ // )	// pepet
-u	ᬸ // u	// suku
-e	ᬾ // e	// taleng
-E	ᬿ // E	// taleng repa
-ᬵ o // o	// tedong
+// sound killers (pangangge tengenan)
+// can't appears alone
+/	᭄	// adeg-adeg	// also represented by “«”
+*	ᬂ	// cecek
+(	ᬃ	// surang
+;	ᬄ	// bisah
 º  ᬁ//  º	// ulu candra
 ™  ᬀ//  ™	// ulu ricem
 
@@ -126,22 +115,37 @@ e	ᬏ // e	// same glyph shape with “6”
 O	ᬑ // O	// same glyph shape with “3”
 Oo  ᬒ // au
 
+// vowels sign (akśara suara)
+// can't appears alone
+i ᬶ // i	// ulu
+)	ᭂ // )	// pepet
+u	ᬸ // u	// suku
+e	ᬾ // e	// taleng
+E	ᬿ // E	// taleng repa
+ᬵ o // o	// tedong
+
 // ra repa & la lenga
 Ï	ᬋ // rě // ra repa
 Ïo	ᬌ // rö // ra repa tedong
-»	᭄ᬋ  // »  // gempelan
+»	᭄ᬋ  // »  // gempelan // can't appears alone
 ò	ᬍ // lě // la lenga // same glyph shape with “2”
 òo	ᬎ // lö // la lenga tedong
-
-// sound killers (pangangge tengenan)
-/	᭄	// adeg-adeg	// also represented by “«”
-*	ᬂ	// cecek
-(	ᬃ	// surang
-;	ᬄ	// bisah
 
 // miscellaneous
 œ	ᬙ // cha	// cha laca
 ¼	ᬔ // kha
+
+// numerals
+0	᭐	// 0
+1	᭑	// 1
+2	᭒	// 2	// same glyph shape with “lě” (ò)
+3	᭓	// 3	// same glyph shape with “O” (O)
+4	᭔	// 4
+5	᭕	// 5
+6	᭖	// 6	// same glyph shape with “e”
+7	᭗	// 7
+8	᭘	// 8	// same glyph shape with “pha” (|)
+9	᭙	// 9
 
 // Punctuations & symbols
 ,	᭞	// ,	// carik
